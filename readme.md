@@ -14,3 +14,4 @@ All quotes are sourced from https://en.wikiquote.org
 - Linus Torvals
 - Martin Fowler
 - Larry Wall
+- Alan Kay
