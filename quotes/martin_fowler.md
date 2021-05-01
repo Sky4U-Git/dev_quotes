@@ -15,4 +15,4 @@ hardware platform when it might actually be cheaper to buy more hardware.
 
 [2021, test for slave branch]
 
-Some random quotes
+Some random quotes.
